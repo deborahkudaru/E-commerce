@@ -1,0 +1,7 @@
+:root {
+    --text-font: calc(0.52rem + .78vw);
+}
+
+div{
+    color: red;
+}
