@@ -1,0 +1,12 @@
+/* @import {
+    for fonts, and other utils
+} */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
