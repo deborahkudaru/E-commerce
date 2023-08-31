@@ -1,12 +1,11 @@
 import React from "react";
+import Home from "./routes/Home";
 import './App.css'
 
 function App () {
     return (
         <>
-            <h1 className="text-3xl font-bold underline">
-                Read App
-            </h1>
+            <Home />
         </>
     )
 }
